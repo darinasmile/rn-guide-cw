@@ -1,0 +1,6 @@
+<resources>
+    <color name="splash_background">#060512</color>
+    <!-- you can name your color as you wish but following to Android standard. 
+      Also you can add more then one color if you need it on your splash screen
+    -->
+</resources>
